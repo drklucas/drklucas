@@ -1,5 +1,4 @@
-## 👋 Olá, eu sou o @drklucas, 
-## Desenvolvedor FullStack
+## 👋 Olá, eu sou o @drklucas, desenvolvedor FullStack
 ## Bem vindo ao meu GitHub! 👋 
 
 - 🔭 Atualmente estou trabalhando com Flutter, Vue.js, Laravel e MySQL.
