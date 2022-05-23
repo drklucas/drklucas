@@ -1,6 +1,12 @@
 ## 👋 Olá, eu sou o @drklucas, desenvolvedor FullStack
 ## Bem vindo ao meu GitHub! 👋 
 
+<div>
+<a href="https://github.com/drklucas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drklucas&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=drklucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 - 🔭 Atualmente estou trabalhando com Flutter, Vue.js, Laravel e MySQL.
 - 	:heavy_check_mark: Já trabalhei com Reactjs, React Native, nodejs, mongoDB.
 - 🌱 Tenho estudado Javascript, Firebase.
