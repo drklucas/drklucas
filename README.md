@@ -5,4 +5,4 @@
 - 🌱 Atualmente estou aprendendo Javascript, Firebase...
 - 📫 Entre em contato comigo pelo email: lucasnevesp@outlook.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width=40 height=40>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height=40 width=40/>
