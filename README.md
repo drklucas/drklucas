@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o @drklucas, desenvolvedor FullStack
+## 👋 Olá, eu sou o Lucas Neves, desenvolvedor FullStack
 ## Bem vindo ao meu GitHub! 👋 
 
 <div>
