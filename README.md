@@ -7,8 +7,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drklucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-- 🔭 Atualmente estou trabalhando com Flutter, Vue.js, Laravel e MySQL.
-- 	:heavy_check_mark: Já trabalhei com Reactjs, React Native, nodejs, mongoDB.
+- 🔭 Atualmente estou trabalhando com Flutter, Vue.js, Laravel e mongoDB.
+- 	:heavy_check_mark: Já trabalhei com Reactjs, React Native, nodejs, mySQL.
 - 🌱 Tenho estudado Javascript, Firebase.
 - 📫 Entre em contato comigo pelo email: lucasnevesp@outlook.com
 
